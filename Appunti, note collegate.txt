@@ -1,0 +1,29 @@
+LINGUAGGIO HTML
+ul = elenco puntato (all'interno del tag si inserisce li e poi all'interno del li si inseriscono i dati)
+ol = elenco numerato(all'interno del tag si inserisce li e poi all'interno del li si inseriscono i dati)
+div = raggruppare i contenuti
+a = tag per inserire link (all'interno del tag mettere href es. <a href="link che vuoi prendere">nome che vuoi dare al link</a>
+target="_blank" (la pagina si aprirà qui)
+target="_self" (la pagina si aprirà in un'altra pagina)
+<meta charset="UTF-8"> (inserire sotto il tag "head" per far si che il programma legga lingue diverse)
+inserire un immagine <img src="cartella/nome immagine.jpg alt="frase se non si dovesse vedere l'immagine">
+graffa = alt gr+ pause su+ pulsante è
+
+
+
+LINGUAGGIO CSS
+metodo di css lungo e ripetitivo(esempio):
+<style type="text/css">
+		h1{
+		  color:red;
+		}
+	</style>
+weight = peso
+
+https://www.w3schools.com/colors/colors_picker.asp (per colore preciso css)
+
+top px right px botton px leftpx = quando devi inserire in css i valori delle dimensione del box model (vedi pag.27)
+
+/* testo */ = testo inserito come commente per tenere in ordine
+
+text-align = testo accentrato
