@@ -28,7 +28,12 @@ a {
 
 p {
 	color: #ff9933;
-	text-transform: uppercase;
+	text-transform: bold;
+}
+
+li {
+	text-transform: bold;
+	color: #ff9933;
 }
 
 #nav{
